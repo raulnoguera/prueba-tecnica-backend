@@ -54,7 +54,5 @@ public class GeneroService {
 
         return generosConteo;
     }
-	//public List<GeneroCountDTO> obtenerConteoGeneros() {
-		//return generoRepository.obtenerConteoGeneros();
-	//}
+	
 }
